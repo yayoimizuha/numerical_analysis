@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d25d333e9b95ab4f7c258fbc0e3ac368db76bd602a4d67573581b02d6ae7ed0e"
+            "sha256": "43f487b156b69022ba44459e317dcd196e44dfd91ded701884232f7ded98b985"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -93,6 +93,13 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==4.38.0"
+        },
+        "japanize-matplotlib": {
+            "hashes": [
+                "sha256:e89e7d9e109820962650e59a130403b59b33915fde3871a265a5891d9bf5e079"
+            ],
+            "index": "pypi",
+            "version": "==1.1.3"
         },
         "joblib": {
             "hashes": [

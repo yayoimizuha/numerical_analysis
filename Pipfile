@@ -9,6 +9,7 @@ scikit-learn = "*"
 sympy = "*"
 numba = "*"
 pandas = "*"
+japanize-matplotlib = "*"
 
 [dev-packages]
 
